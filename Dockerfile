@@ -1,4 +1,4 @@
-FROM nvidia/cuda:9.1-cudnn7-devel-centos7
+FROM nvidia/cuda-ppc64le:9.1-cudnn7-devel-centos7
 
 # Nimbix bits and Nimbix desktop
 RUN curl -H 'Cache-Control: no-cache' \
