@@ -7,6 +7,9 @@
         "Software Development",
         "IBM POWER/Software Development"
     ],
+    "hints": [
+        "SCALE_NODES"
+    ],
     "machines": [
         "np*g*"
     ],
