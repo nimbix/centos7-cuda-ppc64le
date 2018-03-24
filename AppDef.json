@@ -8,7 +8,7 @@
         "IBM POWER/Software Development"
     ],
     "machines": [
-        "np*g[1-8]"
+        "np*g*"
     ],
     "vault-types": [
         "FILE",
